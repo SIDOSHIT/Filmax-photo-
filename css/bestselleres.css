@@ -1,0 +1,67 @@
+.bestsellers_row {
+    margin-left: 140px;
+    margin-top: 150px;
+    margin-right: 140px;
+}
+
+.bestsellers_row_category {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bestsellers_row_category h1 {
+    font-family: 'Raleway-Regular';
+    font-size: 46px;
+    line-height: 46px;
+    font-weight: 700;
+    color: #181818;
+}
+
+.bestsellers_row_category a {
+    font-family: 'Raleway-SemiBold';
+    font-size: 20px;
+    line-height: 46px;
+    font-weight: 700;
+    color: #181818;
+    border-bottom: 2px solid #181818;
+}
+
+.bestsellers_row_photo {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bestsellers_row_photo img {
+    width: 340px;
+    height: 313px;
+    background-color: #f4f3fc;
+}
+
+.bestsellers_row_price {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 23px;
+}
+
+.bestsellers_row_price_correct {
+    display: flex;
+    justify-content: space-between;
+    width: 340px;
+}
+
+.bestsellers_row_price h2 {
+    font-family: 'Raleway-SemiBold';
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #181818;
+}
+
+.bestsellers_row_price p {
+    font-family: 'Raleway-Regular';
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 700;
+    color: #181818;
+}

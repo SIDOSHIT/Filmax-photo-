@@ -1,0 +1,48 @@
+.wrapper {
+    margin: 0% auto;
+    background-image: url('../img/gradient.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    margin-left: 140px;
+    padding-top: 31px;
+    margin-right: 140px;
+}
+
+.navigation_row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation_row_content {
+    display: flex;
+    justify-content: space-between;
+    width: 460px;
+}
+
+.navigation_row_content a {
+    font-family: 'Raleway-Medium';
+    color: #181818;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 700;
+}
+
+.navigation_row_content:hover {
+    text-decoration: none;
+    transition: 2s all;
+}
+
+.navigation_row_icons {
+    display: flex;
+    justify-content: space-between;
+    width: 120px;
+    margin-left: 300px;
+}
+
+.navigation_row_icons img {
+    width: 18px;
+    height: 18px;
+}

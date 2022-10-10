@@ -1,0 +1,147 @@
+.content_product {
+    display: flex;
+    margin-top: 140px;
+    margin-left: 140px;
+}
+
+.content_characteristics {
+    max-width: 500px;
+    margin-right: 40px;
+}
+
+.content_characteristics_raiting {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content_characteristics_raiting h2 {
+    font-family: 'Raleway-Regular';
+    font-size: 46px;
+    line-height: 46px;
+    font-weight: 700;
+    color: #181818;
+}
+
+.content_characteristics_raiting a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway-Regular';
+    font-size: 22px;
+    line-height: 22px;
+    font-weight: 700;
+    color: #181818;
+}
+
+.content_characteristics h5 {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 350px;
+    font-family: 'Raleway-Regular';
+    font-size: 22px;
+    line-height: 31px;
+    font-weight: 700;
+    color: #181818;
+}
+
+.content_characteristics_color {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.content_characteristics_color p {
+    font-family: 'Raleway-Medium';
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 700;
+    color: #181818;
+    margin-bottom: 30px;
+}
+
+.content_characteristics_color_bth {
+    display: flex;
+    justify-content: space-between;
+    width: 160px;
+    margin-bottom: 45px;
+}
+
+.content_characteristics_color_bth :active {
+    border: 2px solid black;
+}
+
+.orange {
+    background-color: #ee6936;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+.pink {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: #dcd0c1;
+}
+
+.blue {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: #b2bec8;
+}
+
+.content_characteristics_description {}
+
+.content_characteristics_description h1 {
+    font-family: 'Raleway-Medium';
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 700;
+    color: #181818;
+    margin-bottom: 25px;
+}
+
+.content_characteristics_description_column {
+    display: flex;
+    justify-content: space-between;
+    width: 460px;
+    font-family: 'Raleway-Regular';
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 700;
+    color: #181818;
+    margin-bottom: 77px;
+}
+
+.content_characteristics_price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content_characteristics_price p {
+    font-family: 'Raleway-Medium';
+    font-size: 32px;
+    line-height: 25px;
+    font-weight: 700;
+    color: #181818;
+}
+
+.content_characteristics_price button {
+    font-family: 'Raleway-Medium';
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 700;
+    color: #ffffff;
+    width: 275px;
+    height: 60px;
+    background-color: #181818;
+    border-radius: 28px;
+}
+
+.img_product {
+    width: 660px;
+    height: 639px;
+    background-color: #f4f3fc;
+}

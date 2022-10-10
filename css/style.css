@@ -1,0 +1,20 @@
+@import url('./navigation.css');
+@import url('./null.css');
+@import url('./promo_wrapper.css');
+@import url('./bestselleres.css');
+@import url('./content.css');
+@import url('./content_characteristics.css');
+@font-face {
+    font-family: 'Raleway-Medium';
+    src: url(./font/Raleway-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Raleway-Regular';
+    src: url(./font/Raleway-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Raleway-SemiBold';
+    src: url(./font/Raleway-SemiBold.ttf);
+}
